@@ -1,15 +1,15 @@
-# NLP_N-gram
+# NLP_GenerateMusic
 :round_pushpin: **GOAL:**
 > Generate music from midi file using N-gram
 
 **CODE:** 
-- [Main](./main.ipynb)
+- [main](./main.ipynb)
 
 **METHOD:**
 - N-gram
 
 **DATA:**  
-- midi file
+- Midi file
 
 I generate new music using N-gram from Oasis song
 
