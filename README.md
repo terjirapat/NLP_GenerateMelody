@@ -1,6 +1,6 @@
 # NLP_N-gram
 :round_pushpin: **GOAL:**
-> Generate music form midi file using N-gram
+> Generate music from midi file using N-gram
 
 **CODE:** 
 - [Main](./main.ipynb)
